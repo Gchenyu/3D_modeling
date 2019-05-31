@@ -1,0 +1,30 @@
+﻿  Subdivision_Run.cpp
+c:\users\g_che\desktop\subdivision\subdivision\display.h : warning C4335: 检测到 Mac 文件格式: 请将源文件转换为 DOS 格式或 UNIX 格式
+c:\users\g_che\desktop\subdivision\subdivision\vector3d.h(154): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\meshstructure.h(94): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\ccsubdivision.h(12): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\g_che\desktop\subdivision\subdivision\ccsubdivision.h(22): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\g_che\desktop\subdivision\subdivision\ccsubdivision.h(44): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\ccsubdivision.h(46): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\ccsubdivision.h(47): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(39): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(61): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(63): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(308): warning C4244: “初始化”: 从“unsigned int”转换到“float”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\display.h(39): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\users\g_che\desktop\subdivision\subdivision\display.h(39): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\users\g_che\desktop\subdivision\subdivision\display.h(41): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\users\g_che\desktop\subdivision\subdivision\display.h(41): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+Subdivision_Run.obj : error LNK2019: 无法解析的外部符号 __imp__glutInitWindowSize@8，该符号在函数 _main 中被引用
+Subdivision_Run.obj : error LNK2019: 无法解析的外部符号 __imp__glutInitDisplayMode@4，该符号在函数 _main 中被引用
+Subdivision_Run.obj : error LNK2019: 无法解析的外部符号 __imp__glutMainLoop@0，该符号在函数 _main 中被引用
+Subdivision_Run.obj : error LNK2019: 无法解析的外部符号 __imp__glutPostRedisplay@0，该符号在函数 "void __cdecl KeyBoard(unsigned char,int,int)" (?KeyBoard@@YAXEHH@Z) 中被引用
+Subdivision_Run.obj : error LNK2019: 无法解析的外部符号 __imp__glutKeyboardFunc@4，该符号在函数 _main 中被引用
+Subdivision_Run.obj : error LNK2019: 无法解析的外部符号 __imp__glutSpecialFunc@4，该符号在函数 _main 中被引用
+Subdivision_Run.obj : error LNK2019: 无法解析的外部符号 __imp__glutReshapeFunc@4，该符号在函数 _main 中被引用
+Subdivision_Run.obj : error LNK2019: 无法解析的外部符号 __imp__glutDisplayFunc@4，该符号在函数 _main 中被引用
+Subdivision_Run.obj : error LNK2019: 无法解析的外部符号 __imp____glutInitWithExit@12，该符号在函数 _glutInit_ATEXIT_HACK@8 中被引用
+Subdivision_Run.obj : error LNK2019: 无法解析的外部符号 __imp____glutCreateWindowWithExit@8，该符号在函数 _glutCreateWindow_ATEXIT_HACK@4 中被引用
+D:\visual studio\VC\lib\freeglutd.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+C:\Users\g_che\Desktop\Subdivision\Debug\Subdivision.exe : fatal error LNK1120: 10 个无法解析的外部命令

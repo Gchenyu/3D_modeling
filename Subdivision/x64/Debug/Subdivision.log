@@ -1,0 +1,63 @@
+﻿  Subdivision_Run.cpp
+c:\users\g_che\desktop\subdivision\subdivision\display.h : warning C4335: 检测到 Mac 文件格式: 请将源文件转换为 DOS 格式或 UNIX 格式
+c:\users\g_che\desktop\subdivision\subdivision\meshstructure.h(47): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\meshstructure.h(153): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\meshstructure.h(159): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\meshstructure.h(189): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\meshstructure.h(189): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\meshstructure.h(204): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\meshstructure.h(208): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\meshstructure.h(211): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\meshstructure.h(212): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\meshstructure.h(213): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\meshstructure.h(217): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\meshstructure.h(218): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\ccsubdivision.h(27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\ccsubdivision.h(31): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\g_che\desktop\subdivision\subdivision\ccsubdivision.h(41): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\g_che\desktop\subdivision\subdivision\ccsubdivision.h(63): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\ccsubdivision.h(65): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\ccsubdivision.h(66): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\g_che\desktop\subdivision\subdivision\ccsubdivision.h(110): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\ccsubdivision.h(118): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\ccsubdivision.h(133): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\ccsubdivision.h(152): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\ccsubdivision.h(157): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\ccsubdivision.h(162): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\ccsubdivision.h(164): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\ccsubdivision.h(165): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\ccsubdivision.h(167): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\ccsubdivision.h(173): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(47): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(51): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(53): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(71): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(75): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(77): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(141): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(154): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(167): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(182): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(194): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(195): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(196): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(221): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(233): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(234): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(235): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(244): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(256): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(257): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(258): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(266): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(278): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(279): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(280): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\loopsubdivision.h(328): warning C4244: “初始化”: 从“unsigned __int64”转换到“float”，可能丢失数据
+c:\users\g_che\desktop\subdivision\subdivision\display.h(34): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\users\g_che\desktop\subdivision\subdivision\display.h(34): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\users\g_che\desktop\subdivision\subdivision\display.h(36): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\users\g_che\desktop\subdivision\subdivision\display.h(36): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\users\g_che\desktop\subdivision\subdivision\init.h(28): warning C4715: “Init”: 不是所有的控件路径都返回值
+  Subdivision.vcxproj -> C:\Users\g_che\Desktop\Subdivision\x64\Debug\Subdivision.exe
+  Subdivision.vcxproj -> C:\Users\g_che\Desktop\Subdivision\x64\Debug\Subdivision.pdb (Full PDB)
